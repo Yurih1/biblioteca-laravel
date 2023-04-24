@@ -17,7 +17,7 @@ Será necessário o docker instalado em sua maquina para rodar esta aplicação:
 [instalação do docker](https://docs.docker.com/engine/install/) para mais informações.
 
 
-Após instalação do docker, acessar a raiz do projeto e criar a `.env` (configure as inforamções conforme necessidade. duvidas? entre em contato):
+Após instalação do docker, acessar a raiz do projeto e criar a `.env` (configure as informações conforme necessidade. duvidas? entre em contato):
 
 ```bash
 cp .env.example .env
